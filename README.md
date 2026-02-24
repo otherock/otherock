@@ -11,6 +11,14 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="20px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="20px" 
@@ -41,14 +49,6 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
