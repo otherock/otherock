@@ -50,27 +50,7 @@ Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary educatio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 
 
 <br/>
 <br/>
-
-
-**``.status``**
-<p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRocha26&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-
-</p>
