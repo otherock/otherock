@@ -4,7 +4,10 @@
 
 Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary education at Colégio Kennedy, as well as a course in computer technology. He is currently studying Computer Science at UNISINOS. He is passionate about technology and is looking for an opportunity to develop professionally in an organization that values mutual growth. He is committed to learning, contributing, and evolving with an innovative team.
 
+<br/>
+
 **``.sobre_mim``**
+
 Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino secundário no Colégio Kennedy, bem como um curso de tecnologia da informação. Atualmente, estuda Ciência da Computação na UNISINOS. É apaixonado por tecnologia e procura uma oportunidade para se desenvolver profissionalmente numa organização que valorize o crescimento mútuo. Está empenhado em aprender, contribuir e evoluir com uma equipa inovadora.
 
 ---
