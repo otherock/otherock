@@ -15,54 +15,50 @@ Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no C
 **``.languagesAndTechnologies``**
 
 <img 
-    align="left" 
-    alt="Python" 
+    align="left"
+    alt="Python"
     title="Python"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    width="20px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img 
-    align="left" 
-    alt="JavaScript" 
+    align="left"
+    alt="JavaScript"
     title="JavaScript"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    width="20px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <img 
-    align="left" 
+    align="left"
     alt="C"
-    title="C" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    title="C"
+    width="20px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
 
 <img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    align="left"
+    alt="C++"
+    title="C++"
+    width="20px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
 <img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="20px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 
 <br/>
-<br/>
-
-
-
-melhore o perfil do meu github com base no meu curriculo, mas deixando com esse toque de programador moderno
+<br/> 
