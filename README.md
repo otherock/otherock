@@ -14,51 +14,12 @@ Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no C
 
 **``.languagesAndTechnologies``**
 
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="20px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="20px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="C"
-    title="C"
-    width="20px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="C++"
-    title="C++"
-    width="20px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="20px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" title="C" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" title="C++" alt="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" title="Docker" alt="Docker" />
+</p>
 
 <br/>
-<br/> 
