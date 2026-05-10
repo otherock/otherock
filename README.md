@@ -12,6 +12,22 @@ Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no C
 
 ---
 
+**``.currentFocus&Projects``**
+
+* **AI Transversal @ UNISINOS:** Developing a computational tool for automated classification of municipal laws using Python and Azure OpenAI.
+* **Human-in-the-loop Systems:** Building validation platforms with Streamlit to integrate expert feedback into AI pipelines.
+* **Scalable Infrastructure:** Implementing containerized environments with Docker for university-level applications.
+
+---
+
+**``.focoAtual&Projetos``**
+
+* **IA Transversal @ UNISINOS:** Desenvolvimento de uma ferramenta computacional para a classificação automatizada de leis municipais utilizando Python e Azure OpenAI.
+* **Sistemas de Avaliações Humanas:** Criação de plataformas de validação com Streamlit para integrar o feedback de especialistas nos fluxos de trabalho de IA.
+* **Infraestrutura Escalável:** Implementação de ambientes em contêineres com o Docker para aplicações de nível universitário.
+
+---
+
 **``.languagesAndTechnologies``**
 
 <p align="left">
