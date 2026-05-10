@@ -2,13 +2,17 @@
 
 **``.about_me``**
 
-Born in Rio Grande do Sul, Arthur Rocha Delgado graduated from Colégio Kennedy with a high school diploma and a technical degree in IT. He is currently pursuing a bachelor’s degree in Computer Science at UNISINOS-POA. He is passionate about technology and is seeking an opportunity to grow professionally within an organization that values mutual growth. He is committed to learning, contributing, and growing alongside an innovative team.
+Born in Rio Grande do Sul, Arthur Rocha Delgado is an IT Technician and Computer Science student at UNISINOS. Currently, he serves as a Scientific Initiation Scholar in the Cidadania Viva Project, where he develops automation and Artificial Intelligence solutions applied to the public sector. 
+
+With practical experience in Python, LLMs (Azure OpenAI), and containerized infrastructure with Docker, Arthur focuses on building tools that drive social impact and technical efficiency. He is an innovation enthusiast, passionate about solving complex problems, and is always open to new challenges and opportunities that foster mutual growth and knowledge sharing in collaborative environments.
 
 <br/>
 
 **``.sobre_mim``**
 
-Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no Colégio Kennedy, junto com um curso técnico em TI. Atualmente, faz bacharelado em Ciências da Computação na UNISINOS-POA. É apaixonado por tecnologia e procura uma oportunidade para se desenvolver profissionalmente numa organização que valorize o crescimento mútuo. Está empenhado em aprender, contribuir e evoluir com uma equipa inovadora.
+Nascido no Rio Grande do Sul, Arthur Rocha Delgado é técnico em TI e graduando em Ciência da Computação na UNISINOS. Atualmente, atua como Bolsista de Iniciação Científica no Projeto Cidadania Viva, onde desenvolve soluções de automação e inteligência artificial aplicadas ao setor público.
+
+Com experiência prática em Python, LLMs (Azure OpenAI) e infraestrutura conteinerizada com Docker, Arthur foca em criar ferramentas que geram impacto social e eficiência técnica. É um entusiasta da inovação, apaixonado por resolver problemas complexos e está sempre aberto a novos desafios e oportunidades que permitam o crescimento mútuo e a troca de conhecimentos em ambientes colaborativos
 
 ---
 
