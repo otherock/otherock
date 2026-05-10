@@ -18,7 +18,7 @@ Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no C
 * **Human-in-the-loop Systems:** Building validation platforms with Streamlit to integrate expert feedback into AI pipelines.
 * **Scalable Infrastructure:** Implementing containerized environments with Docker for university-level applications.
 
----
+<br/>
 
 **``.focoAtual&Projetos``**
 
