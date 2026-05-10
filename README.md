@@ -1,64 +1,36 @@
-# Hi, 🤟 i'm rocha;
+# Hi, I'm Arthur Rocha 🤘
 
-**``.about_me``**
+> **Computer Science Student @ UNISINOS** | [cite_start]AI Research & Automation [cite: 13, 17]
 
-Born in Rio Grande do Sul, Arthur Rocha Delgado graduated from Colégio Kennedy with a high school diploma and a technical degree in IT. He is currently pursuing a bachelor’s degree in Computer Science at UNISINOS-POA. He is passionate about technology and is seeking an opportunity to grow professionally within an organization that values mutual growth. He is committed to learning, contributing, and growing alongside an innovative team.
-
-<br/>
-
-**``.sobre_mim``**
-
-Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no Colégio Kennedy, junto com um curso técnico em TI. Atualmente, faz bacharelado em Ciências da Computação na UNISINOS-POA. É apaixonado por tecnologia e procura uma oportunidade para se desenvolver profissionalmente numa organização que valorize o crescimento mútuo. Está empenhado em aprender, contribuir e evoluir com uma equipa inovadora.
+Passionate about building intelligent solutions and optimizing workflows. [cite_start]Currently developing AI-driven automations at the **Cidadania Viva Project**. [cite_start]Based in Porto Alegre, RS[cite: 4, 39].
 
 ---
 
-**``.languagesAndTechnologies``**
+### 🛠️ Core Stack
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- [cite_start]**Languages:** Python (AI Focus), C++, JavaScript, SQL [cite: 29, 65]
+- [cite_start]**AI & Data:** LLMs (GPT-4/5.3 via Azure OpenAI), NLP, Streamlit, Power BI [cite: 19, 30, 55, 66]
+- [cite_start]**DevOps & Tools:** Docker, Git, Linux, Jupyter Notebooks [cite: 21, 30, 57, 66]
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+### 🔬 Current Focus & Projects
 
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+- [cite_start]**AI Transversal @ UNISINOS:** Developing a computational tool for automated classification of municipal laws using Python and Azure OpenAI[cite: 17, 18, 54].
+- [cite_start]**Human-in-the-loop Systems:** Building validation platforms with Streamlit to integrate expert feedback into AI pipelines[cite: 20, 56].
+- [cite_start]**Scalable Infrastructure:** Implementing containerized environments with Docker for university-level applications[cite: 21, 57].
 
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
+---
 
+### 🏆 Achievements
 
-<br/>
-<br/>
+- [cite_start]**National Award Winner:** Best Mini-Company (Junior Achievement) - Production Leader @ CarPet's[cite: 33, 34, 69, 70].
+- [cite_start]**Research Highlight:** Featured researcher at UFRGS Youth Salon for "Hemp Bioplastic and Its Industrial Potential"[cite: 35, 36, 71].
+
+---
+
+### 📫 Reach Me
+
+- **LinkedIn:** [Arthur Rocha Delgado](SEU_LINK_AQUI)
+- [cite_start]**Email:** arthur.rdelgado26@gmail.com [cite: 3, 40]
+- **Portfolio:** Check my pinned repos below 👇
