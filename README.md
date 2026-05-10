@@ -62,3 +62,7 @@ Nascido no Rio Grande do Sul, Arthur Rocha Delgado concluiu o ensino médio no C
 
 <br/>
 <br/>
+
+
+
+melhore o perfil do meu github com base no meu curriculo, mas deixando com esse toque de programador moderno
